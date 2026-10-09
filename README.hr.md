@@ -4,7 +4,7 @@
 
 > Android aplikacija za analizu sportskog klađenja koja kvote, statistiku, raspoloženje zajednice i signale tipstera spaja u jednu ocjenu po utakmici, nad njom pokreće LLM analitičara i disciplinirano bilježi svaku okladu.
 
-![License](https://img.shields.io/badge/license-proprietary-red) ![Status](https://img.shields.io/badge/status-active-green) ![Flutter](https://img.shields.io/badge/Flutter-3.41%2B-blue) ![Android](https://img.shields.io/badge/platform-Android-blue) ![Version](https://img.shields.io/badge/version-3.1.3-blue)
+![License](https://img.shields.io/badge/license-MIT-green) ![Status](https://img.shields.io/badge/status-active-green) ![Flutter](https://img.shields.io/badge/Flutter-3.41%2B-blue) ![Android](https://img.shields.io/badge/platform-Android-blue) ![Version](https://img.shields.io/badge/version-3.1.3-blue)
 
 ## Sadržaj
 
@@ -228,4 +228,4 @@ Otvori **Settings** i upiši barem Anthropic i Odds API ključ. Football-Data i 
 
 ## Licenca
 
-Vlasnički softver — sva prava pridržana. Vidi [LICENSE](LICENSE).
+Objavljeno pod [MIT licencom](LICENSE) — slobodno za korištenje, izmjene i dijeljenje.

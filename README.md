@@ -4,7 +4,7 @@
 
 > A sports betting analysis app for Android that merges odds, statistics, community sentiment and tipster signals into one score per match, runs an LLM analyst on top, and keeps a disciplined record of every bet you place.
 
-![License](https://img.shields.io/badge/license-proprietary-red) ![Status](https://img.shields.io/badge/status-active-green) ![Flutter](https://img.shields.io/badge/Flutter-3.41%2B-blue) ![Android](https://img.shields.io/badge/platform-Android-blue) ![Version](https://img.shields.io/badge/version-3.1.3-blue)
+![License](https://img.shields.io/badge/license-MIT-green) ![Status](https://img.shields.io/badge/status-active-green) ![Flutter](https://img.shields.io/badge/Flutter-3.41%2B-blue) ![Android](https://img.shields.io/badge/platform-Android-blue) ![Version](https://img.shields.io/badge/version-3.1.3-blue)
 
 ## Contents
 
@@ -230,4 +230,4 @@ All documents are in Croatian.
 
 ## License
 
-Proprietary — all rights reserved. See [LICENSE](LICENSE).
+Released under the [MIT License](LICENSE) — free to use, modify and share.
